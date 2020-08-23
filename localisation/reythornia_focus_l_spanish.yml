@@ -15,7 +15,7 @@
   REY_purgar_la_burocracia_desc:0 "Es hora de quitarle el poder a los estúpidos burócratas."
 
   REY_reforzar_el_gobierno:0 "Reforzar el Gobierno"
-  REY_reforzar_el_gobierno_desc:0 "Aseguraremos la seguridad del rey, prepararemos al gobierno para lo peor y estabilizaremos el país."
+  REY_reforzar_el_gobierno_desc:0 "Aseguraremos la integridad del rey, prepararemos al gobierno para lo peor y estabilizaremos el país."
 
   REY_poder_al_ministro:0 "Poder al Ministro"
   REY_poder_al_ministro_desc:0 ""
@@ -24,7 +24,7 @@
   REY_ejercito_del_pueblo_desc:0 ""
 
   REY_preparacion_para_la_guerra:0 "Preparaciones para la Guerra"
-  REY_preparacion_para_la_guerra_desc:0 ""
+  REY_preparacion_para_la_guerra_desc:0 "Debemos estar preparados en caso de que el invasor fascista decida adentrarse denuevo en nuestras tierras."
 
   REY_profesionalizar_al_ejercito:0 "Profesionalizar el Ejército"
   REY_profesionalizar_al_ejercito_desc:0 ""
@@ -33,7 +33,7 @@
   REY_no_pasaran_desc:0 ""
 
   REY_fuertes_montaneses:0 "Fuertes Montañeses"
-  REY_fuertes_montaneses_desc:0 ""
+  REY_fuertes_montaneses_desc:0 "Colocaremos tuneles entre búnkeres, fortínes y nidos de ametralladora para detener el avance enemigo en seco."
 
   REY_cruzada_contra_separatistas:0 "Cruzada contra los Separatistas"
   REY_cruzada_contra_separatistas_desc:0 ""
