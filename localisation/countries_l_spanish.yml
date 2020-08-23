@@ -1,0 +1,13 @@
+﻿l_spanish:
+ REY_fascism:0 "Estado de Reythornia"
+ REY_fascism_DEF:0 "El Gran Estado de Reythornia"
+ REY_democratic:0 "Reythornia"
+ REY_democratic_DEF:0 "República de Reythornia"
+ REY_neutrality:1 "Reino de Reythornia"
+ REY_neutrality_DEF:1 "El Reino de Reythornia""
+ REY_communism:0 "República Democrática de Reythornia"
+ REY_communism_DEF:0 "La República Democrática de Reythornia"
+ REY_fascism_ADJ:0 "del Estado de Reythornia"
+ REY_democratic_ADJ:0 "de Reythornia"
+ REY_neutrality_ADJ:0 "del Reino de Reythornia"
+ REY_communism_ADJ:0 "de la República Democrática de Reythornia"
