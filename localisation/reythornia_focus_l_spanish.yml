@@ -1,12 +1,12 @@
 ﻿l_spanish:
   REY_destino_del_rey:0 "Destino del Rey"
-  REY_destino_del_rey_desc:0 ""
+  REY_destino_del_rey_desc:0 "Estamos en un momento crucial para el país, las guerras de separacion, los tratados de paz e intervenciones de los paises aliados han dejado huella en nuestra nacion, ahora debemos usar todo lo que tenemos a mano para sacar el país adelante."
 
   REY_forzar_la_abdicacion:0 "Forzar la Abdicación"
   REY_forzar_la_abdicacion_desc:0 ""
-  
+
   REY_mantener_la_corona:0 "Lealtad a la Corona"
-  REY_mantener_la_corona_desc:0 ""
+  REY_mantener_la_corona_desc:0 "Nos mantendremos firmes y leales a la corona, la dinastía debe perdurar en el tiempo y los siglos."
 
   REY_arrestar_al_rey:0 "Arrestar al Rey"
   REY_arrestar_al_rey_desc:0 ""
@@ -15,7 +15,7 @@
   REY_purgar_la_burocracia_desc:0 "Es hora de quitarle el poder a los estúpidos burócratas."
 
   REY_reforzar_el_gobierno:0 "Reforzar el Gobierno"
-  REY_reforzar_el_gobierno_desc:0 ""
+  REY_reforzar_el_gobierno_desc:0 "Aseguraremos la seguridad del rey, prepararemos al gobierno para lo peor y estabilizaremos el país."
 
   REY_poder_al_ministro:0 "Poder al Ministro"
   REY_poder_al_ministro_desc:0 ""
