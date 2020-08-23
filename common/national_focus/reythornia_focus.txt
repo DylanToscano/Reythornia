@@ -1,0 +1,235 @@
+focus_tree = {
+	id = reythornia_focus
+
+	country = {
+		factor = 0
+
+		modifier = {
+			add = 10
+			tag = REY
+		}
+
+	}
+	#continuous_focus_position = { x = 50 y = 1600 }
+	default = no
+
+focus = {
+		id = REY_destino_del_rey
+		icon = GFX_destino_del_rey
+		x = 5
+		y = 1
+
+		cost = 10
+
+		available_if_capitulated = yes
+
+		completion_reward = {
+			add_political_power = 150
+		}
+
+	}
+
+	focus = {
+			id = REY_mantener_la_corona
+			icon = GFX_mantener_la_corona
+			x = 0
+			y = 1
+			relative_position_id = REY_destino_del_rey
+
+			cost = 10
+			prerequisite = { focus =  REY_destino_del_rey}
+			mutually_exclusive = { focus = REY_forzar_la_abdicacion focus = REY_arrestar_al_rey}
+			available_if_capitulated = yes
+
+			completion_reward = {
+
+			}
+
+		}
+
+		focus = {
+				id = REY_forzar_la_abdicacion
+				icon = GFX_forzar_la_abdicacion
+				x = -3
+				y = 1
+				relative_position_id = REY_destino_del_rey
+
+				cost = 10
+				prerequisite = { focus =  REY_destino_del_rey}
+				mutually_exclusive = { focus = REY_arrestar_al_rey focus = REY_mantener_la_corona}
+				available_if_capitulated = yes
+
+				completion_reward = {
+
+				}
+
+			}
+
+			focus = {
+					id = REY_arrestar_al_rey
+					icon = GFX_arrestar_al_rey
+					x = 3
+					y = 1
+					relative_position_id = REY_destino_del_rey
+
+					cost = 10
+					prerequisite = { focus =  REY_destino_del_rey}
+					mutually_exclusive = { focus = REY_forzar_la_abdicacion focus = REY_mantener_la_corona}
+					available_if_capitulated = yes
+
+					completion_reward = {
+
+					}
+
+				}
+
+				focus = {
+						id = REY_purgar_la_burocracia
+						icon = GFX_purgar_la_burocracia
+						x = 0
+						y = 1
+						relative_position_id = REY_forzar_la_abdicacion
+
+						cost = 10
+						prerequisite = { focus =  REY_forzar_la_abdicacion}
+
+						completion_reward = {
+
+						}
+
+					}
+
+					focus = {
+							id = REY_reforzar_el_gobierno
+							icon = GFX_reforzar_el_gobierno
+							x = 0
+							y = 1
+							relative_position_id = REY_mantener_la_corona
+
+							cost = 10
+							prerequisite = { focus =  REY_mantener_la_corona}
+
+							completion_reward = {
+
+							}
+
+						}
+
+						focus = {
+								id = REY_poder_al_ministro
+								icon = GFX_poder_al_ministro
+								x = 0
+								y = 1
+								relative_position_id = REY_arrestar_al_rey
+
+								cost = 10
+								prerequisite = { focus =  REY_arrestar_al_rey}
+
+								completion_reward = {
+
+								}
+
+							}
+
+							focus = {
+									id = REY_ejercito_del_pueblo
+									icon = GFX_ejercito_del_pueblo
+									x = 0
+									y = 1
+									relative_position_id = REY_purgar_la_burocracia
+
+									cost = 10
+									prerequisite = { focus =  REY_purgar_la_burocracia }
+
+									completion_reward = {
+
+									}
+
+								}
+
+								focus = {
+										id = REY_preparacion_para_la_guerra
+										icon = GFX_preparacion_para_la_guerra
+										x = 0
+										y = 1
+										relative_position_id = REY_reforzar_el_gobierno
+
+										cost = 10
+										prerequisite = { focus =  REY_reforzar_el_gobierno}
+
+										completion_reward = {
+
+										}
+
+									}
+
+									focus = {
+											id = REY_profesionalizar_al_ejercito
+											icon = GFX_profesionalizar_al_ejercito
+											x = 0
+											y = 1
+											relative_position_id = REY_poder_al_ministro
+
+											cost = 10
+											prerequisite = { focus =  REY_poder_al_ministro}
+
+											completion_reward = {
+
+											}
+
+										}
+
+										focus = {
+												id = REY_no_pasaran
+												icon = GFX_no_pasaran
+												x = 0
+												y = 1
+												relative_position_id = REY_ejercito_del_pueblo
+
+												cost = 10
+												prerequisite = { focus =  REY_ejercito_del_pueblo}
+
+												completion_reward = {
+
+												}
+
+											}
+
+											focus = {
+													id = REY_fuertes_montaneses
+													icon = GFX_fuertes_montaneses
+													x = 0
+													y = 1
+													relative_position_id = REY_preparacion_para_la_guerra
+
+													cost = 10
+													prerequisite = { focus =  REY_preparacion_para_la_guerra}
+
+													completion_reward = {
+
+													}
+
+												}
+
+												focus = {
+														id = REY_cruzada_contra_separatistas
+														icon = GFX_cruzada_contra_separatistas
+														x = 0
+														y = 1
+														relative_position_id = REY_profesionalizar_al_ejercito
+
+														cost = 10
+														prerequisite = { focus =  REY_profesionalizar_al_ejercito}
+
+														completion_reward = {
+
+														}
+
+													}
+
+
+
+
+
+
+}

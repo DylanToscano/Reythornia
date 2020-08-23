@@ -1,0 +1,58 @@
+capital = 278
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	tech_mountaineers = 1
+	gw_artillery = 1
+	interwar_antiair = 1
+	early_fighter = 1
+	CAS1 = 1
+}
+
+set_convoys = 240
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1929.10.6"
+	election_frequency = 72
+	elections_allowed = no
+}
+set_popularities = {
+	democratic = 0
+	fascism = 7
+	communism = 3
+	neutrality = 90
+}
+
+create_country_leader = {
+	name = "Alen Porto"
+	desc = "Alen Porto, el Rey."
+	picture = "Reydy.dds"
+	expire = "1965.1.1"
+	ideology = despotism
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Dylan Toscano"
+	desc = ""
+	picture = "SirTosky.dds"
+	expire = "1965.1.1"
+	ideology = fascism_ideology
+	traits = {
+		#
+	}
+}
+
+create_field_marshal = {
+	name = "Dylan Toscano"
+	portrait_path = "SirTosky.dds"
+	traits = { }
+	skill = 3
+    attack_skill = 5
+    defense_skill = 1
+    planning_skill = 1
+    logistics_skill = 2
+}
