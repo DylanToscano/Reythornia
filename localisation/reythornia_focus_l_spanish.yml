@@ -1,7 +1,7 @@
 ﻿l_spanish:
   REY_destino_del_rey:0 "Destino del Rey"
   REY_destino_del_rey_desc:0 ""
-  
+
   REY_forzar_la_abdicacion:0 "Forzar la Abdicación"
   REY_forzar_la_abdicacion_desc:0 ""
   
@@ -12,7 +12,7 @@
   REY_arrestar_al_rey_desc:0 ""
 
   REY_purgar_la_burocracia:0 "Purgar la Burocracia"
-  REY_purgar_la_burocracia_desc:0 ""
+  REY_purgar_la_burocracia_desc:0 "Es hora de quitarle el poder a los estúpidos burócratas."
 
   REY_reforzar_el_gobierno:0 "Reforzar el Gobierno"
   REY_reforzar_el_gobierno_desc:0 ""

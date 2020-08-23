@@ -1,10 +1,10 @@
 ﻿l_english:
   REY_destino_del_rey:0 "Fate of the King"
   REY_destino_del_rey_desc:0 "We must decide what to do with our king."
-  
+
   REY_forzar_la_abdicacion:0 "Force Abdication"
   REY_forzar_la_abdicacion_desc:0 ""
-  
+
   REY_mantener_la_corona:0 "Loyalty to the Crown"
   REY_mantener_la_corona_desc:0 ""
 
@@ -12,7 +12,7 @@
   REY_arrestar_al_rey_desc:0 ""
 
   REY_purgar_la_burocracia:0 "Purge the Bureaucracy"
-  REY_purgar_la_burocracia_desc:0 ""
+  REY_purgar_la_burocracia_desc:0 "It's time to take down the bureaucrats, who hold too much power."
 
   REY_reforzar_el_gobierno:0 "Reinforce the Government"
   REY_reforzar_el_gobierno_desc:0 ""
