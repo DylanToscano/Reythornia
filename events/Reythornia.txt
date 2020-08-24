@@ -2,7 +2,7 @@
 # Reythornia events
 ###########################
 
-add_namespace = REY
+add_namespace = reythornia
 
 # Arrestar al rey
 country_event = {
