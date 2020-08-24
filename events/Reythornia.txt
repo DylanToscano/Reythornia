@@ -2,19 +2,19 @@
 # Reythornia events
 ###########################
 
-add_namespace = reythornia
+add_namespace = REY
 
 # Arrestar al rey
 country_event = {
-	id = reythornia.1
-	title = reythornia.1.t
-	desc = reythornia.1.t
+	id = REY.arrestar
+	title = REY.arrestar.t
+	desc = REY.arrestar.d
 	picture = GFX_reythornia_arresta_al_rey
 
 	is_triggered_only = yes
 
 	option = { #Botón de aceptar
-		name = reythornia.1.a
+		name = REY.arrestar.a
 
 	}
 }

@@ -1,4 +1,4 @@
-l_english:
-  reythornia.1.t:0 "" #t = título
-  reythornia.1.d:0 "" #d = descripción
-  reythornia.1.a:0 "" #Opción A, en este caso, el botón de "continuar."
+﻿l_english:
+  REY.arrestar.t:0 "The Arrest of King Alen" #t = título
+  REY.arrestar.d:0 "Today, the sovereign king of Reythornia was arrested by the National Security Forces, which stormed the royal bunker under orders of Minister and War Hero Leandro Barrionuevo.\n\n Nobody knows what will happen to the king." #d = descripción
+  REY.arrestar.1.a:0 "" #Opción A, en este caso, el botón de "continuar."
