@@ -13,11 +13,8 @@ country_event = {
 
 	is_triggered_only = yes
 
-	option = { # Accept demands
+	option = { #Botón de aceptar
 		name = REY.arrestar.a
 
-	}
-	option = { # Refuse
-		name = finland.1.b
 	}
 }

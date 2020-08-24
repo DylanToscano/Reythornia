@@ -68,16 +68,6 @@ create_country_leader = {
 	}
 }
 
-create_country_leader = {
-	name = Nadie
-	desc = ""
-	picture = "Sin_Gobierno.dds"
-	expire = "1965.1.1"
-	ideology = anarchism
-	traits = {
-		#
-	}
-}
 
 create_field_marshal = {
 	name = "Dylan Toscano"
