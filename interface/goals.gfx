@@ -66,8 +66,8 @@ spriteTypes = {
 	}
 
 	SpriteType = {
-	name = "GFX_desarrollar_la_industria"
-	texturefile = "gfx/interface/goals/desarrollar_la_industria.dds"
+	name = "GFX_desarrollo_industrial"
+	texturefile = "gfx/interface/goals/desarrollo_industrial.dds"
 	}
 
 	SpriteType = {
