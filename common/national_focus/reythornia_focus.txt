@@ -230,7 +230,7 @@ focus = {
 													focus = {
 															id = REY_desarollar_la_industria
 															icon = GFX_desarollar_la_industria
-															x = 10
+															x = 15
 															y = 1
 
 															cost = 10
