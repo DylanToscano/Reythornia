@@ -228,8 +228,8 @@ focus = {
 													}
 
 													focus = {
-															id = REY_desarrollar_la_industria
-															icon = GFX_desarrollar_la_industria
+															id = REY_desarro_industrial
+															icon = GFX_desarro_industrial
 															x = 15
 															y = 1
 
@@ -247,10 +247,10 @@ focus = {
 																icon = GFX_carreteras_nacionales
 																x = -2
 																y = 1
-																relative_position_id = REY_desarrollar_la_industria
+																relative_position_id = REY_desarro_industrial
 
 																cost = 10
-																prerequisite = { focus =  REY_desarrollar_la_industria}
+																prerequisite = { focus =  REY_desarro_industrial}
 
 																completion_reward = {
 
@@ -263,10 +263,10 @@ focus = {
 																	icon = GFX_manufacturar_armamento
 																	x = 2
 																	y = 1
-																	relative_position_id = REY_desarrollar_la_industria
+																	relative_position_id = REY_desarro_industrial
 
 																	cost = 10
-																	prerequisite = { focus =  REY_desarrollar_la_industria}
+																	prerequisite = { focus =  REY_desarro_industrial}
 
 																	completion_reward = {
 
