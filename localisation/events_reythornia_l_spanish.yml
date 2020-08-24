@@ -1,4 +1,4 @@
 l_spanish:
-  REY.arrestar.t:0 "" #t = título
-  REY.arrestar.d:0 "" #d = descripción
-  REY.arrestar.a:0 "" #Opción A, en este caso, el botón de "continuar."
+  REY.arrestar.t:0 "El Arresto del Rey Alen" #t = título
+  REY.arrestar.d:0 "Al día de la fecha, el Rey soberano al Trono de Reythornia fue arrestado por las fuerzas de seguridad nacional, las cuales irrumpieron en el búnker del edificio gubernamental en el que se encontraba. El Ministro y Héroe de guerra Leandro Barrionuevo, ordenó su captura y arresto. No sabemos que pasará con el Rey." #d = descripción
+  REY.arrestar.a:0 "¿Qué le depara a Reythornia?" #Opción A, en este caso, el botón de "continuar."
