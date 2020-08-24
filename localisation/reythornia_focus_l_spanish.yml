@@ -1,42 +1,42 @@
 ﻿l_spanish:
-  REY_destino_del_rey:0 "Destino del Rey"
+    REY_destino_del_rey:0 "Destino del Rey"
   REY_destino_del_rey_desc:0 "Estamos en un momento crucial para el país, las guerras de separacion, los tratados de paz e intervenciones de los paises aliados han dejado huella en nuestra nacion, ahora debemos usar todo lo que tenemos a mano para sacar el país adelante."
 
   REY_forzar_la_abdicacion:0 "Forzar la Abdicación"
-  REY_forzar_la_abdicacion_desc:0 ""
+  REY_forzar_la_abdicacion_desc:0 "Tomaremos el gobierno cortando los lazos reales y ejecutando a los burgueses junto al Rey."
 
   REY_mantener_la_corona:0 "Lealtad a la Corona"
   REY_mantener_la_corona_desc:0 "Nos mantendremos firmes y leales a la corona, la dinastía debe perdurar en el tiempo y los siglos."
 
   REY_arrestar_al_rey:0 "Arrestar al Rey"
-  REY_arrestar_al_rey_desc:0 ""
+  REY_arrestar_al_rey_desc:0 "El Rey no parece estár preparado para manejar los problemas en los que estamos metidos, debemos apurar el paso y el rey solo nos estorba, debemos tomar el poder por la fuerza."
 
   REY_purgar_la_burocracia:0 "Purgar la Burocracia"
   REY_purgar_la_burocracia_desc:0 "Es hora de quitarle el poder a los estúpidos burócratas."
 
   REY_reforzar_el_gobierno:0 "Reforzar el Gobierno"
-  REY_reforzar_el_gobierno_desc:0 "Aseguraremos la integridad del rey, prepararemos al gobierno para lo peor y estabilizaremos el país."
+  REY_reforzar_el_gobierno_desc:0 "Aseguraremos la integridad del rey, prepararemos al gobierno para lo peor y estabilizaremos el país. Para esto hará falta esfuerzo y tiempo."
 
   REY_poder_al_ministro:0 "Poder al Ministro"
-  REY_poder_al_ministro_desc:0 ""
+  REY_poder_al_ministro_desc:0 "Héroe de guerra, actual Ministro de Propaganda y un muy buen soldado, el candidato ideal para llevar el país adelante."
 
   REY_ejercito_del_pueblo:0 "Ejercito del Pueblo"
-  REY_ejercito_del_pueblo_desc:0 ""
+  REY_ejercito_del_pueblo_desc:0 "Necesitaremos muchas armas y muchas más personas para afrontar la amenaza fascista que se acerca del otro lado de los alpes."
 
   REY_preparacion_para_la_guerra:0 "Preparaciones para la Guerra"
-  REY_preparacion_para_la_guerra_desc:0 "Debemos estar preparados en caso de que el invasor fascista decida adentrarse denuevo en nuestras tierras."
+  REY_preparacion_para_la_guerra_desc:0 "Debemos estar preparados en caso de que el invasor decida adentrarse denuevo en nuestras tierras, estaremos esperandolos para contraatacar."
 
   REY_profesionalizar_al_ejercito:0 "Profesionalizar el Ejército"
-  REY_profesionalizar_al_ejercito_desc:0 ""
+  REY_profesionalizar_al_ejercito_desc:0 "Necesitamos fuerzas armadas organizadas a las cuales poder llamarle ejército, nuestras milicias necesitan equipamiento y entrenamiento adecuado."
 
   REY_no_pasaran:0 "¡No pasaran!"
-  REY_no_pasaran_desc:0 ""
+  REY_no_pasaran_desc:0 "Nuestro deber es proteger nuestra patría a cualquier costo, hasta la ultima gota de sangre."
 
   REY_fuertes_montaneses:0 "Fuertes Montañeses"
   REY_fuertes_montaneses_desc:0 "Colocaremos tuneles entre búnkeres, fortínes y nidos de ametralladora para detener el avance enemigo en seco."
 
   REY_cruzada_contra_separatistas:0 "Cruzada contra los Separatistas"
-  REY_cruzada_contra_separatistas_desc:0 ""
+  REY_cruzada_contra_separatistas_desc:0 "Debemos erradicar a los separatistas comunistas, anarquistas y liberales para estabilizar al país."
 
   REY_desarollar_la_industria:0 "Desarollar la Industria"
   REY_desarollar_la_industria_desc:0 ""
