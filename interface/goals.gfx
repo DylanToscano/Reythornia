@@ -64,6 +64,41 @@ spriteTypes = {
 	name = "GFX_cruzada_contra_separatistas"
 	texturefile = "gfx/interface/goals/cruzada_contra_separatistas.dds"
 	}
+
+	SpriteType = {
+	name = "GFX_desarollar_la_industria"
+	texturefile = "gfx/interface/goals/desarollar_la_industria.dds"
+	}
+
+	SpriteType = {
+	name = "GFX_carreteras_nacionales"
+	texturefile = "gfx/interface/goals/carreteras_nacionales.dds"
+	}
+
+	SpriteType = {
+	name = "GFX_manufacturar_armamento"
+	texturefile = "gfx/interface/goals/manufacturar_armamento.dds"
+	}
+
+	SpriteType = {
+	name = "GFX_capital_extranjero"
+	texturefile = "gfx/interface/goals/capital_extranjero.dds"
+	}
+
+	SpriteType = {
+	name = "GFX_ejercito_blindado"
+	texturefile = "gfx/interface/goals/ejercito_blindado.dds"
+	}
+
+	SpriteType = {
+	name = "GFX_explotar_los_recursos"
+	texturefile = "gfx/interface/goals/explotar_los_recursos.dds"
+	}
+
+	SpriteType = {
+	name = "GFX_ingenieros_de_asalto"
+	texturefile = "gfx/interface/goals/ingenieros_de_asalto.dds"
+	}
 #-------------------------------------------------------------
 	#### Generic continuous goal icons
 

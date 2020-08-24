@@ -227,6 +227,117 @@ focus = {
 
 													}
 
+													focus = {
+															id = REY_desarollar_la_industria
+															icon = GFX_desarollar_la_industria
+															x = 20
+															y = 1
+
+															cost = 10
+
+															available_if_capitulated = yes
+
+															completion_reward = {
+															}
+
+														}
+
+														focus = {
+																id = REY_carreteras_nacionales
+																icon = GFX_carreteras_nacionales
+																x = -2
+																y = 1
+																relative_position_id = REY_desarollar_la_industria
+
+																cost = 10
+																prerequisite = { focus =  REY_desarollar_la_industria}
+
+																completion_reward = {
+
+																}
+
+															}
+
+															focus = {
+																	id = REY_manufacturar_armamento
+																	icon = GFX_manufacturar_armamento
+																	x = 2
+																	y = 1
+																	relative_position_id = REY_desarollar_la_industria
+
+																	cost = 10
+																	prerequisite = { focus =  REY_desarollar_la_industria}
+
+																	completion_reward = {
+
+																	}
+
+																}
+
+																focus = {
+																		id = REY_capital_extranjero
+																		icon = GFX_capital_extranjero
+																		x = 0
+																		y = 1
+																		relative_position_id = REY_carreteras_nacionales
+
+																		cost = 10
+																		prerequisite = { focus =  REY_carreteras_nacionales}
+
+																		completion_reward = {
+
+																		}
+
+																	}
+
+																	focus = {
+																			id = REY_ejercito_blindado
+																			icon = GFX_ejercito_blindado
+																			x = 0
+																			y = 1
+																			relative_position_id = REY_manufacturar_armamento
+
+																			cost = 10
+																			prerequisite = { focus =  REY_manufacturar_armamento}
+
+																			completion_reward = {
+
+																			}
+
+																		}
+
+																		focus = {
+																				id = REY_explotar_los_recursos
+																				icon = GFX_explotar_los_recursos
+																				x = 0
+																				y = 1
+																				relative_position_id = REY_capital_extranjero
+
+																				cost = 10
+																				prerequisite = { focus =  REY_capital_extranjero}
+
+																				completion_reward = {
+
+																				}
+
+																			}
+
+																			focus = {
+																					id = REY_ingenieros_de_asalto
+																					icon = GFX_ingenieros_de_asalto
+																					x = 0
+																					y = 1
+																					relative_position_id = REY_ejercito_blindado
+
+																					cost = 10
+																					prerequisite = { focus =  REY_ejercito_blindado}
+
+																					completion_reward = {
+
+																					}
+
+																				}
+
 
 
 

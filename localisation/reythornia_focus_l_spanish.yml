@@ -37,3 +37,24 @@
 
   REY_cruzada_contra_separatistas:0 "Cruzada contra los Separatistas"
   REY_cruzada_contra_separatistas_desc:0 ""
+
+  REY_desarollar_la_industria:0 "Desarollar la Industria"
+  REY_desarollar_la_industria_desc:0 ""
+
+  REY_carreteras_nacionales:0 "Carreteras Nacionales"
+  REY_carreteras_nacionales_desc:0 ""
+
+  REY_capital_extranjero:0 "Capital Extranjero"
+  REY_capital_extranjero_desc:0 ""
+
+  REY_explotar_los_recursos:0 "Explotar los Recursos"
+  REY_explotar_los_recursos_desc:0 ""
+
+  REY_manufacturar_armamento:0 "Manufacturar Armamento"
+  REY_manufacturar_armamento_desc:0 ""
+
+  REY_ejercito_blindado:0 "Ejército Blindado"
+  REY_ejercito_blindado_desc:0 ""
+
+  REY_ingenieros_de_asalto:0 "Ingenieros de Asalto"
+  REY_ingenieros_de_asalto_desc:0 ""
