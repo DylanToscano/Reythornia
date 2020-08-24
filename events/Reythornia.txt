@@ -6,15 +6,15 @@ add_namespace = REY
 
 # Arrestar al rey
 country_event = {
-	id = REY.arrestar
-	title = REY.arrestar.t
-	desc = REY.arrestar.t
-	picture = GFX_report_event_soviet_tanks_snow
+	id = reythornia.1
+	title = reythornia.1.t
+	desc = reythornia.1.t
+	picture = GFX_reythornia_arresta_al_rey
 
 	is_triggered_only = yes
 
 	option = { #Botón de aceptar
-		name = REY.arrestar.a
+		name = reythornia.1.a
 
 	}
 }

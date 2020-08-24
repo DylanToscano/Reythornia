@@ -1,4 +1,4 @@
 l_english:
-  REY.arrestar.t:0 "" #t = título
-  REY.arrestar.d:0 "" #d = descripción
-  REY.arrestar.a:0 "" #Opción A, en este caso, el botón de "continuar."
+  reythornia.1.t:0 "" #t = título
+  reythornia.1.d:0 "" #d = descripción
+  reythornia.1.a:0 "" #Opción A, en este caso, el botón de "continuar."
