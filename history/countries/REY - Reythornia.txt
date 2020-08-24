@@ -68,6 +68,17 @@ create_country_leader = {
 	}
 }
 
+create_country_leader = {
+	name = REY_Sin_Gobierno
+	desc = ""
+	picture = "Sin_Gobierno.dds"
+	expire = "1965.1.1"
+	ideology = despotism
+	traits = {
+		#
+	}
+}
+
 create_field_marshal = {
 	name = "Dylan Toscano"
 	portrait_path = "SirTosky.dds"
