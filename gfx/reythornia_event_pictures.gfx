@@ -1,0 +1,8 @@
+spriteTypes = {
+
+ spriteType = {
+	name = "GFX_REY.arresto"
+	texturefile = "gfx/event_pictures/evento1.dds"
+	}
+
+}
