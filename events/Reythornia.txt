@@ -9,7 +9,7 @@ country_event = {
 	id = REY.arrestar
 	title = REY.arrestar.t
 	desc = REY.arrestar.d
-	picture = GFX_reythornia_arresta_al_rey
+	picture = GFX_REY.arresto
 
 	is_triggered_only = yes
 

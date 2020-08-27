@@ -1,4 +1,4 @@
 ﻿l_english:
-  REY.arrestar.t:0 "The Arrest of King Alen" #t = título
-  REY.arrestar.d:0 "Today, the sovereign king of Reythornia was arrested by the National Security Forces, which stormed the royal bunker under orders of Minister and War Hero Leandro Barrionuevo.\n\n Nobody knows what will happen to the king." #d = descripción
-  REY.arrestar.a:0 "What now?" #Opción A, en este caso, el botón de "continuar."
+  REY.arrestar.t:0 "The Arrest of King Alen"
+  REY.arrestar.d:0 "Today, the sovereign king of Reythornia was arrested by the National Security Forces, which stormed the royal bunker under orders of Minister and War Hero Leandro Barrionuevo.\n\n Nobody knows what will happen to the king."
+  REY.arrestar.a:0 "What now?"

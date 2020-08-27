@@ -1,7 +1,7 @@
 spriteTypes = {
 
 	spriteType = {
-		name = "GFX_reythornia_arresta_al_rey"
+		name = "GFX_REY.arresto"
 		texturefile = "gfx/event_pictures/evento1.dds"
 	}
 
